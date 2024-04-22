@@ -14,7 +14,9 @@ Hastkala is a curated collection showcasing the rich diversity of Indian handicr
 
 ## Preview
 
-![Hastkala Preview](preview.png)
+![Hastkala Preview](p1.png)
+![Hastkala Preview](p2.png)
+![Responsive](p3.png)
 
 ## Demo
-hast-kalaa.vercel.app
+https://hast-kalaa.vercel.app/
